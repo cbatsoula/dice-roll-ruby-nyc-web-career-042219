@@ -4,5 +4,5 @@
 
 def roll(r)
   r = rand(1..6)
-  return r
 end
+return r
